@@ -1,5 +1,5 @@
 # Opa, me chamo Diogo! Seja bem-vindo
-Sou estudante de Ciencia da Computação na UFCG. Apaixonado por inovação e tecnologia desde pequeno, procuro sempre novos desafios para me aprimorar. Possuo experiência internacional no MIT, com enfoque em tecnologia e bussiness, além de uma vontade imensa de aprender novas tecnologias e me aprimorar!
+Sou estudante de Ciencia da Computação na UFCG. Apaixonado por inovação e tecnologia desde pequeno, procuro sempre novos desafios para me aprimorar. Possuo experiência internacional no MIT, com enfoque em tecnologia e bussiness, além de uma vontade imensa de aprender novas tecnologias!
 
 
 # Tech Stack
